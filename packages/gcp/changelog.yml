@@ -12,6 +12,9 @@
     - description: Add GCP Compute Metricset
       type: enhancement
       link: https://github.com/elastic/integrations/pull/2301
+    - description: Add GCP Firestore Data stream
+      type: enhancement
+      link: https://github.com/elastic/integrations/pull/2704
 - version: "1.9.0"
   changes:
     - description: Preserve request and response in flattened fields.
