@@ -1,4 +1,10 @@
 # newer versions go on top
+# newer versions go on top
+- version: "2.3.1"
+  changes:
+    - description: Update docs to clarify how to use CloudWatch cross-account observability.
+      type: enhancement
+      link: https://github.com/elastic/integrations/pull/XXXX
 - version: "2.3.0"
   changes:
     - description: Change include_linked_accounts default to true
